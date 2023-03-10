@@ -76,7 +76,7 @@ function foo(abc: ABC) {
 
 타입스크립트는 DOM 계층 구조 파악하기 용이하다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fc9f196-e305-4fbf-bfb6-f6771cec527e/Untitled.png)
+![image](https://user-images.githubusercontent.com/62867581/224232864-98f08095-36bf-4a99-bcf4-6aaa999ccf80.png)
 
 1. EventTarget : DOM 타입 중 가장 추상화된 타입
 2. Node 타입
